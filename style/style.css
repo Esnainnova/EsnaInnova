@@ -1,0 +1,199 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "Please write me a song";
+}
+
+section#banner{
+	background: url("../pictures/tecnologia-educativa.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	
+}header{
+	position: fixed;
+	width: 100%;
+	height: 70px;
+	background-color: transparent;
+	-webkit-transition: background-color .5s;
+	letter-spacing: 20px;
+}
+
+nav{
+	display: table;
+	margin: auto;
+	margin-top: 15px;
+	height: 40px;
+	-webkit-transition: margin-left .5s;
+}
+
+ul{
+	display: block;
+	float: left;
+	list-style: none;
+}
+
+ul li{
+	float: left;
+	margin: 10px;
+	padding: 2px;
+}
+
+ul a{
+	color: #F3F3F3;
+	text-decoration: none;
+}
+
+img#logo{
+	float:left;
+	display: block;
+	margin-left: 30px;
+	margin-right: 30px;
+	margin-top: 150px;
+	-webkit-transition: width .5s, height .5s, margin-right .5s, margin-top .5s;
+}
+
+#body{
+	width: 100%;
+	height: 500px;
+
+}
+
+
+section#Servicios h1{
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 60px;
+	margin-left: 450px;
+	margin-top: 80px;
+	text-align: center;
+	width: 635px;
+}
+
+.descripcion{
+	font-size: 25px;
+	font-weight: normal;
+	line-height: 30px;
+	margin: 80px;
+	margin-left: 160px;
+	margin-top: 20px;
+	width: 33%;
+	text-align: justify;
+}
+
+.img{
+	float: right;
+	margin-right: 70px;
+	margin-top: -70px;
+	margin-bottom: 40px;
+}
+
+.img2{
+	float: left;
+	margin-left: 170px;
+}
+
+.segunda{
+	
+	font-size: 25px;
+	font-weight: normal;
+	line-height: 30px;
+	margin-left: 820px;
+	width: 33%;
+	text-align: justify;
+
+}
+
+section#Preguntas h2{
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 30px;
+	margin-left: 450px;
+	margin-top: 120px;
+	text-align: center;
+	width: 635px;
+}
+
+section#Preguntas h3{
+	font-size: 30px;
+	font-weight: normal;
+	margin-bottom: 30px;
+	margin-left: 150px;
+	margin-top: 20px;
+	text-align: left;
+	width: 635px;
+}
+
+.texto1{
+	font-size: 25px;
+	font-weight: normal;
+	line-height: 30px;
+	margin-bottom: 30px;
+	margin-left: 150px;
+	margin-top: 10px;
+	width: 33%;
+	text-align: justify;
+}
+section#Preguntas h4{
+	font-size: 30px;
+	font-weight: normal;
+	margin-bottom: 10px;
+	margin-left: 150px;
+	margin-top: 20px;
+	text-align: left;
+	width: 635px;
+}
+
+.texto2{
+	font-size: 25px;
+	font-weight: normal;
+	line-height: 30px;
+	margin-bottom: 30px;
+	margin-left: 150px;
+	margin-top: 10px;
+	width: 33%;
+	text-align: justify;
+}
+
+section#Preguntas h5{
+	font-size: 30px;
+	font-weight: normal;
+	margin-bottom: 10px;
+	margin-left: 150px;
+	margin-top: 20px;
+	text-align: left;
+	width: 635px;
+}
+
+.texto3{
+	font-size: 25px;
+	font-weight: normal;
+	line-height: 30px;
+	margin-bottom: 30px;
+	margin-left: 150px;
+	margin-top: 10px;
+	width: 33%;
+	text-align: justify;
+}
+
+section#Preguntas h6{
+	font-size: 30px;
+	font-weight: normal;
+	margin-bottom: 10px;
+	margin-left: 150px;
+	margin-top: 20px;
+	text-align: left;
+	width: 635px;
+}
+
+.texto4{
+	font-size: 25px;
+	font-weight: normal;
+	line-height: 30px;
+	margin-bottom: 30px;
+	margin-left: 150px;
+	margin-top: 10px;
+	width: 33%;
+	text-align: justify;
+}
+	
